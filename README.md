@@ -51,6 +51,10 @@ Libraries used
 * [Retrofit] [retrofit]
 
 
+Contribute
+-----
+Feel free to add new features, changes, etc. And use it to make an Android application for the Conference ;)
+
 
 [okHttp]: https://github.com/square/okhttp
 [retrofit]: https://github.com/square/retrofit
